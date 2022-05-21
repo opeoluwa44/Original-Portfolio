@@ -7,7 +7,6 @@ navKey.forEach(nav=>{
         navKey.forEach(open=>open.classList.remove("active"))
 
         this.classList.add("active")
-        console.log(this)
 
     })
 
